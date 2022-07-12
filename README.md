@@ -10,7 +10,7 @@ Ticket Management System(TMS) is developed using Node.js and express. This proje
 | Board Manager | -           | R             | CRUD | CRUD   | CRUD    |
 | User          | -           | -             | -    | -      | CRU     |
 
-Please contact me on [mailto:jaypancholi94@gmail.com](jaypancholi94@gmail.com) for postman endponts file.
+Please contact me on [jaypancholi94@gmail.com](mailto:jaypancholi94@gmail.com) for postman endponts file.
 
 ## Available Scripts
 
